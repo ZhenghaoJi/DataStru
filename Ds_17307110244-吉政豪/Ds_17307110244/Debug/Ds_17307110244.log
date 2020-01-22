@@ -1,0 +1,5 @@
+﻿  main_body.cpp
+c:\users\10568\onedrive\2019 fall\数据结构\pj_17307110244_吉政豪\ds_17307110244\ds_17307110244\main_body.cpp(56): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\10568\onedrive\2019 fall\数据结构\pj_17307110244_吉政豪\ds_17307110244\ds_17307110244\main_body.cpp(180): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+c:\users\10568\onedrive\2019 fall\数据结构\pj_17307110244_吉政豪\ds_17307110244\ds_17307110244\main_body.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+  Ds_17307110244.vcxproj -> C:\Users\10568\OneDrive\2019 fall\数据结构\PJ_17307110244_吉政豪\Ds_17307110244\Debug\Ds_17307110244.exe
